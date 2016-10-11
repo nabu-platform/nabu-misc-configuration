@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<maven><artifacts>nabu:eai-module-configuration</artifacts>
+	<internalDomains>nabu</internalDomains><internalDomains>be.nabu.glue</internalDomains>
+	<provided>be.nabu.glue:glue</provided>
+	<provided>be.nabu.glue:glue-api</provided>
+	<provided>be.nabu.utils:utils-io</provided>
+	<provided>be.nabu.utils:utils-codec</provided>
+	<updateSnapshots>false</updateSnapshots>
+</maven>
