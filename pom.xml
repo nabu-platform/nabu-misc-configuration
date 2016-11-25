@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.misc</groupId>
 	<artifactId>configuration</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>${nabu.misc-configuration-version}</version>
 	<name>configuration</name>
 	
 	<parent>
